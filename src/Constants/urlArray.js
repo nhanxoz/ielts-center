@@ -1,0 +1,1 @@
+export const urlArray = ['tin-tuc', 'thong-tin-khqs', 'hoat-dong-nganh', 'hoat-dong-noi-bo', 'khoa-hoc-cong-nghe', 'thu-vien-tai-lieu', 'da-phuong-tien', 'tim-kiem']
